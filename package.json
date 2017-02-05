@@ -1,0 +1,12 @@
+{
+  "name": "js-stack",
+  "version": "1.0.0",
+  "description": "A handcrafted curated toolchain for JS webapps",
+  "main": "index.js",
+  "repository": {},
+  "author": "Nymous",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  }
+}
